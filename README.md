@@ -1,0 +1,1 @@
+These are event logging and data management/processing scripts for Picarro CRDS gas analyzers (developed for and tested on a G2508).
